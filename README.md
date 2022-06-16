@@ -1,4 +1,4 @@
 # tc
-Projeto Teoria da Computação
-web scraping baseado em regex (expressão regular)
+Projeto Teoria da Computação <br>
+Web Scraping Baseado Em Regex (expressão regular)
 Web Scraping - hltv.org
