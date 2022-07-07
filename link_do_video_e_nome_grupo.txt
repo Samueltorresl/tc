@@ -1,0 +1,5 @@
+LINK DO VIDEO : https://drive.google.com/file/d/1z8BAxqWLn-EYYqaMyprz6r-5bthgBRl-/view?usp=sharing
+
+Equipe: Samuel Torres e Anthony Gabriel
+
+Projeto: Web Scraping baseado em expressões regulares hltv.org/ Utilizando Regex, Requests, Selenium e BeautifulSoup 
